@@ -11,6 +11,7 @@
 }
 .header_main .top_header {
   display: flex;
+  background-color: red;
   width: 100%;
   justify-content: space-between;
   padding: 10px 15px;
